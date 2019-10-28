@@ -1,0 +1,1 @@
+1. Which properties for trucks are waited to use? (truck_name, driver_name, driver_id, driver_password etc.)
